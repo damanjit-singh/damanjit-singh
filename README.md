@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Damanjit Singh</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-- 🌱 I’m currently learning **Spring Boot, PostgresSQL, Hibernate**
+- 🌱 I’m currently learning **Spring Boot, PostgreSQL, Hibernate**
 
 - 💬 Ask me about **spring, hibernate**
 
